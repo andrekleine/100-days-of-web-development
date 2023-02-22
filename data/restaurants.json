@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Arriba Mexico",
+    "address": "Pestalozzistr. 43",
+    "cuisine": "Mexican",
+    "website": "http://www.arriba.com",
+    "description": "Best mexican food ever!"
+  },
+  {
+    "name": "Uh la la",
+    "address": "Uhlandstr 34",
+    "cuisine": "French",
+    "website": "http://uhlala.com",
+    "description": "Delicious"
+  }
+]
